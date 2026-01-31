@@ -1,7 +1,7 @@
 # IT3040 – Assignment 01  
 ## Playwright Automation Testing Project
 
-This repository contains a complete **Playwright automation testing project** developed as part of **IT3040 – IT Project Management**.  
+This repository contains a complete **Playwright automation testing project (Singlish to Sinhala)** developed as part of **IT3040 – IT Project Management**.  
 The project automates functional and UI test scenarios for the **SwiftTranslator** web application.
  https://www.swifttranslator.com/
 
